@@ -1,4 +1,8 @@
-# 3D Shooting Game "StarFox"
+3D Shooting Game "StarFox"
+==========================
+
+![Graph](https://github.com/takayuki5168/StarFox/blob/master/videos/starfox_video.gif)
+
 多種の操作方法を可能とする3Dシューティングゲーム
 キーボード、Wiiリモコン、赤い物体の位置の3種類の入力方法がある
 元ネタは任天堂のStarFox64
